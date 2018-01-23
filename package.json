@@ -1,0 +1,11 @@
+{
+  "name": "class-chat",
+  "version": "1.0.0",
+  "description": "a webapp so that people can chat in class anon.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Lebedev",
+  "license": "ISC"
+}
